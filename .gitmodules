@@ -1,0 +1,3 @@
+[submodule "vn-backend"]
+	path = vn-backend
+	url = https://github.com/alexanderstoehr/vn-backend.git
